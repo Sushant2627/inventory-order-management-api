@@ -512,5 +512,5 @@ inventory-order-management-api/
 Sushant Sawant
 PHP / Laravel Developer | B.Tech in Computer Science & Engineering
 
-GitHub: https://github.com/Sushant2627
+Email: sushantsawant2627@gmail.com
 LinkedIn: https://www.linkedin.com/in/sushant-sawant27/
